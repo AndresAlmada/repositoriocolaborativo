@@ -1,0 +1,23 @@
+main {
+    background-color: black;
+    width: 800px;
+    height: 500px;
+    color: white;
+    
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteiner {
+    background-color: rgb(99, 99, 99);
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid yellow;
+
+}
