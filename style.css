@@ -1,8 +1,9 @@
 main {
-    background-color: black;
+    background-color: rgb(51, 109, 77);
     width: 800px;
     height: 500px;
     color: white;
+    border-radius: 20px;
     
 }
 
